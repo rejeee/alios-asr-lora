@@ -1,0 +1,10 @@
+*.o
+*.d
+*.pbi
+*.xcl
+*.dep
+**/ASR6501/**/Debug/Obj/
+**/ASR6501/**/settings
+*.lst
+*.uvopt
+*.lnp
